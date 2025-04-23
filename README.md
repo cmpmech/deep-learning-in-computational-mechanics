@@ -5,6 +5,17 @@
 
 - The material consists of exercises (as Jupyter notebooks and Python files) described in the book (**exercises**), short demos (as Jupyter notebooks) covered in the book (**demos**), and lecture slides (as PowerPoint and pdf files) (**slides**). 
 
+## Installation
+1) Download the repository - either with `git clone` or the "Download ZIP" button online
+2) from the command line, enter that directory with `cd exercises`
+3) run: `conda env create -f environment.yml` 
+    this will create a new environment named `aicome`
+4) activate with `conda activate aicome`
+
+### Quickstart
+1) Start jupyter from the command line with: `jupyter lab`
+2) Open a demo .ipynb file and confirm that running it successfully imports packages like `torch` and cells below run successfully. If so, your environment is ready for all the exercises in the book!
+
 ## Status
 - Exercise files: **Available** (except Chapter 8)
 - Demo code snippets: **Available** (except Chapter 7)

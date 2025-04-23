@@ -1,8 +1,8 @@
 # Set up jupyterlab, ipython, pytorch. This requires about 3GB of disk space.
 # from the terminal, install this with:
-# conda env create -f aiJupyter_environment.yml  
+# conda env create -f environment.yml  
 
-name: aiJupyter
+name: aicome
 channels:
   - conda-forge   
   - pytorch
@@ -16,7 +16,15 @@ dependencies:
   - pytorch
   - torchaudio
   - torchvision
+  - numba
+  - pandas
+  - pytables
+  - torchinfo
+  - tensorboard
+  - scipy
+  - ipywidgets<8   # help ensure plots are inline
 
-# for linux
-prefix: ~/aiJupyter
+
+# for linux can set environment location on disk
+#prefix: ~/aiJupyter
 
