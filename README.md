@@ -1,7 +1,7 @@
 # Deep Learning in Computational Mechanics: An Introductory Course (supplementary material)
 - This [repository](https://github.com/cmpmech/deep-learning-in-computational-mechanics) contains the supplementary material of the textbook:
 
-***Deep Learning in Computational Mechanics: An Introductory Course*** (Second Edition), *Leon Herrmann, Moritz Jokeit, Oliver Weeger, and Stefan Kollmannsberger*, Springer 2025, ISBN: TBD, URL: TBD
+***[Deep Learning in Computational Mechanics: An Introductory Course](https://link.springer.com/book/9783031895289)*** (Second Edition), *Leon Herrmann, Moritz Jokeit, Oliver Weeger, and Stefan Kollmannsberger*, Springer 2025, ISBN: TBD, URL: TBD
 
 - The material consists of exercises (as Jupyter notebooks and Python files) described in the book (**exercises**), short demos (as Jupyter notebooks) covered in the book (**demos**), and lecture slides (as PowerPoint and pdf files) (**slides**). 
 
@@ -15,11 +15,6 @@
 ### Quickstart
 1) Start jupyter from the command line with: `jupyter lab`
 2) Open a demo .ipynb file and confirm that running it successfully imports packages like `torch` and cells below run successfully. If so, your environment is ready for all the exercises in the book!
-
-## Status
-- Exercise files: **Available** (except Chapter 8)
-- Demo code snippets: **Available** (except Chapter 7)
-- Presentation slides: **Coming soon**
 
 ## License
 Copyright (c) 2024, Leon Herrmann, Moritz Jokeit, Oliver Weeger, Stefan Kollmannsberger, Thomas Hollowell
