@@ -8,7 +8,7 @@ This [repository](https://github.com/cmpmech/deep-learning-in-computational-mech
   <td><img src=".assets/images/book1.png" alt="deep learning in computational mechanics book 1" width="150"></td>
 </tr></table>
 
-- The material consists of exercises (as Jupyter notebooks and Python files) described in the book (**exercises**), short demos (as Jupyter notebooks) covered in the book (**demos**), and lecture slides (as PowerPoint and pdf files) (**slides**). 
+The material consists of exercises (as Jupyter notebooks and Python files) described in the book (**exercises**), short demos (as Jupyter notebooks) covered in the book (**demos**), and lecture slides (as PowerPoint and pdf files) (**slides**). 
 
 ## Installation
 1) Download the repository - either with `git clone` or the "Download ZIP" button online
