@@ -3,6 +3,11 @@
 
 ***[Deep Learning in Computational Mechanics: An Introductory Course](https://link.springer.com/book/9783031895289)*** (Second Edition), *Leon Herrmann, Moritz Jokeit, Oliver Weeger, and Stefan Kollmannsberger*, Springer 2025, ISBN: 978-3-031-89528-9, URL: link.springer.com/book/9783031895289
 
+<table><tr>
+  <td><img src=".assets/images/book2.png" alt="deep learning in computational mechanics book 2" width="150"></td>
+  <td><img src=".assets/images/book1.png" alt="deep learning in computational mechanics book 1" width="150"></td>
+</tr></table>
+
 - The material consists of exercises (as Jupyter notebooks and Python files) described in the book (**exercises**), short demos (as Jupyter notebooks) covered in the book (**demos**), and lecture slides (as PowerPoint and pdf files) (**slides**). 
 
 ## Installation
