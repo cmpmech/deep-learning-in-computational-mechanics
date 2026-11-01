@@ -12,7 +12,8 @@ The material consists of exercises (as Jupyter notebooks and Python files) descr
 
 ## Installation
 1) Download the repository - either with `git clone` or the "Download ZIP" button online
-2) from the command line, enter that directory with `cd exercises`
+2) from the command line, enter that directory with `cd deep-learning-in-computational-mechanics`
+    (`cd deep-learning-in-computational-mechanics-main` for the ZIP download)
 3) run: `conda env create -f environment.yml` 
     this will create a new environment named `aicome`
 4) activate with `conda activate aicome`
